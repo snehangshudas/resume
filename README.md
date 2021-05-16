@@ -1,2 +1,2 @@
-# resume
-Snehangshu's Resume
+# Snehangshu's Resume
+
